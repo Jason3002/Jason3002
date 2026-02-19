@@ -6,8 +6,8 @@
 
 ### About Me
 
-👨🏻‍💻 I am a full-stack & AI engineer focused on building production-grade web apps and AI solutions.<br/>
-⚡ I have experienced on building enterprise-level RAG pipelines, data ingestion pipelines and full-stack AI web applications at Intel, all of which have undergone and passed rigorous penetration testing<br/>
+👨🏻‍💻 I am a full-stack & AI engineer focused on building production-grade web apps and AI solutions<br/>
+⚡ Experienced in enterprise-level RAG pipelines, data ingestion, and full-stack AI web apps at Intel<br/>
 👨🏻‍🎓 Studied Computer Science at the University of Hull, United Kingdom<br/>
 
 ### Tech Stack
