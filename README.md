@@ -7,7 +7,7 @@
 ### About Me
 
 👨🏻‍💻 I am a full-stack & AI engineer focused on building production-grade web apps and AI solutions.<br/>
-⚡ I have experienced on building enterprise-level RAG pipelines, structured data ingestion workflows/data pipelines and full-stack AI web applications at Intel, all of which have undergone and passed rigorous penetration testing<br/>
+⚡ I have experienced on building enterprise-level RAG pipelines, data ingestion pipelines and full-stack AI web applications at Intel, all of which have undergone and passed rigorous penetration testing<br/>
 👨🏻‍🎓 Studied Computer Science at the University of Hull, United Kingdom<br/>
 
 ### Tech Stack
@@ -22,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
   <img width="12" />
@@ -43,9 +41,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
 </div>
-
-### My GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jason3002&show_icons=true&hide_border=true&include_all_commits=true&theme=default" height="160" />
-</p>
